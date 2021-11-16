@@ -1,0 +1,40 @@
+.jumbotron h1 {
+    color:red;
+}
+
+body > div > div.nav-scroller.py-1.mb-2 .container.nav-scroller.py-1.mb-2 nav {
+    color:red;
+}
+
+.jumbotron > div > p > a {
+    background-color: red;
+    color:royalblue
+}
+
+body > main > div > div > div:nth-child(2) {
+    color: red;
+}
+
+.container .nav-scroller > .nav > .p-2:nth-child(even) {
+    background-color: red;
+  }
+
+body > main > div > div > div:nth-child(4) {
+    background-color: red;
+}
+
+body > main > div > aside > div:nth-child(2) > ol {
+    background-color: red;
+}
+
+body > main > div > div > div:nth-child(3) > p.blog-post-meta > a {
+    background-color: red;
+}
+
+body > footer > p:nth-child(2) > a {
+    background-color: yellow;
+}
+
+footer {
+    background-color: red;
+}
